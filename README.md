@@ -3,8 +3,12 @@
 ## Project Overview
 This project aims to develop an active ball joint that mimics the natural movement of the human shoulder to assist patients with hand tremors. The goal is to create a robotic arm that can filter out tremor-induced movements, providing smoother and more controlled motion for daily activities.
 
+
+
+
 ## Motivation
 Hand tremors, often caused by conditions like Parkinson's disease or essential tremors, significantly impact the quality of life for patients. Traditional treatments, such as medication and surgery, come with side effects and high costs. This project explores an alternative approach by developing a robotic arm that can compensate for tremors, making daily tasks easier and more manageable.
+![Image](https://github.com/user-attachments/assets/07478c5c-9d2a-4039-8b9e-a0ced1501826)
 
 ## Objectives
 - Design and develop an active ball joint that can mimic the natural movement of the human shoulder.
@@ -21,6 +25,10 @@ Hand tremors, often caused by conditions like Parkinson's disease or essential t
   - Flex sensor to measure joint angles.
 - **Microcontroller**: Arduino Uno for processing sensor data and controlling the joint movement.
 - **Actuators**: Stepping motors to drive the joint movement.
+  
+![Image](https://github.com/user-attachments/assets/fb075b6f-f361-498d-99f9-03277783770c)
+![Image](https://github.com/user-attachments/assets/0c8070d4-8763-465e-904d-5ea58dc0a161)
+![Image](https://github.com/user-attachments/assets/f61ea62e-c33b-43ef-beb1-439c5f0c65e1)
 
 ### Software Components
 - **Arduino IDE**: Used for programming the microcontroller.
