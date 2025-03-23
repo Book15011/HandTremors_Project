@@ -45,9 +45,9 @@ The prototype successfully mimics the natural movement of the shoulder and can f
 - Explore the possibility of scaling up the prototype for commercial use.
 
 ## References
-- Abe, K., Tadakuma, K., & Tadakuma, R. (Year). ABENICS: Active Ball Joint Mechanism With Three-DoF Based on Spherical Gear Meshings. *IEEE Transactions on Robotics, 1*(1), Page Numbers. [Link]
-- Ali, S. H., Akhtar, A., Khan, M. A., & Bilal, M. (2021). Detection of Parkinson's Tremor in Real Time Using Accelerometers. In *2021 IEEE 7th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)*. [Link]
-- Bakri, A. B., Adnan, R., & Ruslan, F. A. (2019). Wireless Hand Gesture Controlled Robotic Arm Via NRF24L01 Transceiver. In *2019 IEEE 9th Symposium on Computer Applications & Industrial Electronics (ISCAIE)*. [Link]
+- Abe, K., Tadakuma, K., & Tadakuma, R. (Year). ABENICS: Active Ball Joint Mechanism With Three-DoF Based on Spherical Gear Meshings. *IEEE Transactions on Robotics, 1*(1), Page Numbers.
+- Ali, S. H., Akhtar, A., Khan, M. A., & Bilal, M. (2021). Detection of Parkinson's Tremor in Real Time Using Accelerometers. In *2021 IEEE 7th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)*.
+- Bakri, A. B., Adnan, R., & Ruslan, F. A. (2019). Wireless Hand Gesture Controlled Robotic Arm Via NRF24L01 Transceiver. In *2019 IEEE 9th Symposium on Computer Applications & Industrial Electronics (ISCAIE)*.
 
 ## Keywords
 - Tremor
